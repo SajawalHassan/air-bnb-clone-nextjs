@@ -11,7 +11,7 @@ function Banner() {
 
       <div className="absolute top-1/2 w-full text-center">
         <button className="text-purple-500 bg-white px-10 py-4 shadow-lg rounded-full font-bold my-3 hover:shadow-xl active:scale-90 transition duration-150">
-          S/o Dr.Athar Kharal <br /> Sajawal Hassan <br /> Class 5
+          Sajawal Hassan <br /> Class 5 <br /> s/o Dr. Athar Kharal
         </button>
       </div>
     </div>
