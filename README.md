@@ -1,13 +1,21 @@
-# Air bnb clone
-# Project URL: (https://air-bnb-sajawal-hassan.vercel.app/)
+# AirBnb Clone
 
-Made react app using npm
-```
-npx create-react-app
-```
+Airbnb clone which is fully responsive
+NOTE! THIS PROJECT IS FOR PRACTICE
 
-Librarys/Packeges/API's
-```
-Librarys:
-      Tailwind css
-```
+Demo project: (https://air-bnb-sajawal-hassan.vercel.app/)
+
+# Installation:
+   - clone project
+   - install npm: ```npm i```
+
+# Usage:
+    ```
+    Usage: App.js [OPTIONS]
+
+    Airbnb clone which is fully responsive.
+    Developed by Sajawal Hassan -> (Github: SajawalHassan)
+    ```
+    
+# How to Contribute
+Clone repo and create a new branch: ```$ git checkout https://github.com/SajawalHassan/air-bnb-clone-react -b name_for_new_branch.```
